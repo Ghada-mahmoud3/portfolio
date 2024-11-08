@@ -414,6 +414,9 @@ a:hover{
   .contact-icon {
     cursor:default ;
   }
+.icon.Arrow {
+  transform: rotate(180deg);
+}
   /* footer */
   footer {
     height:26vh ;
